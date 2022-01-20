@@ -9,3 +9,14 @@
   color: white;
   font-weight: 600;
 }
+
+.badge__dot {
+  width: 5px;
+  height: 5px;
+  left: 30px;
+  bottom: 30px;
+}
+.badge__dot__right {
+  left: 70px;
+  bottom: 20px;
+}
